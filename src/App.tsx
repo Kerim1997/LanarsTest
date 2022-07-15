@@ -64,7 +64,7 @@ function App() {
   }
 
   return (<div className='App'>
-    <h1 className='MyHeader'> Mohjong like game</h1>
+    <h1 className='MyHeader'> </h1>
     <div className="Conteiner">
      
       {cardArray?.map((temp, index) =>
